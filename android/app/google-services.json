@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531141099626",
+    "firebase_url": "https://side-hospital-11947.firebaseio.com",
+    "project_id": "side-hospital-11947",
+    "storage_bucket": "side-hospital-11947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531141099626:android:71623c6060a74780de8a13",
+        "android_client_info": {
+          "package_name": "com.example.side_hospital_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531141099626-21n9b2vmf2s7vcf4f9ddsg454vpdrsrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.side_hospital_app",
+            "certificate_hash": "20639232aab8704e3c437344573e64de456470b8"
+          }
+        },
+        {
+          "client_id": "531141099626-ejoced7o8ab2acehhkphslq8rqdkjv3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ycJfrljAN78Vd7weQyYVvyRKnYPFda4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531141099626-ejoced7o8ab2acehhkphslq8rqdkjv3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
